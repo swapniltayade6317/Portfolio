@@ -680,9 +680,4 @@ body {
   body { background: white !important; color: black !important; }
   .text-purple { color: #6c757d !important; }
 }
-img, svg {
-    vertical-align: middle;
-    height: 223px;
-    width: 223px;
-    
-}
+
